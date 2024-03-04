@@ -27,23 +27,16 @@
 
 
 
-#  Coletiva de exercicios em JavaScript
+#  Coletiva de exercicios em VisualBasic
 
 
 *Seram adicionados exercicios simples, medio ou dificil nesse repositório*
 
 ## Desafios
 
-*Nessa construção o fóco é encontrar meios de resolver diferentes exercicios com a utilização de um site Index simples*
+*Nessa construção o fóco é encontrar meios de resolver diferentes exercicios*
 
 ####  Linguagens usadas e Softwares
-
-
--Javascript
-
--Html
-
--Gitbash
 
 -VsCode
 
